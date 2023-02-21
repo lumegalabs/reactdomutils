@@ -1,0 +1,27 @@
+{
+  "name": "reactdomutils",
+  "version": "0.0.1",
+  "description": "Utilities for React DOM Manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lumegalabs/reactdomutils.git"
+  },
+  "keywords": [
+    "React",
+    "ReactDOM"
+  ],
+  "author": "Lumega Labs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lumegalabs/reactdomutils/issues"
+  },
+  "homepage": "https://github.com/lumegalabs/reactdomutils#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
